@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="716a7590-65f4-4fa4-b668-3f71ab963b4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hmw_classes1.3/out/production/hmw_classes1.3/aurabro/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmw_classes1.3/out/production/hmw_classes1.3/aurabro/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hmw_classes1.3/out/production/hmw_classes1.3/aurabro/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmw_classes1.3/out/production/hmw_classes1.3/aurabro/SomeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmw_classes1.3/src/aurabro/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmw_classes1.3/src/aurabro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hmw_classes1.3/src/aurabro/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmw_classes1.3/src/aurabro/SomeClass.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kPeFYPhhqMTDa1DVYHFLfV7GGc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716a7590-65f4-4fa4-b668-3f71ab963b4c" name="Default Changelist" comment="" />
+      <created>1605606550632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605606550632</updated>
+    </task>
+    <servers />
+  </component>
+</project>
